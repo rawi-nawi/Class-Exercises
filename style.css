@@ -1,7 +1,10 @@
 body {
     background-color: rgb(96, 139, 139);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: aliceblue;
+    font-family: "Figtree", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
 }
 a{
     color: rgb(21, 54, 48);
@@ -18,4 +21,27 @@ h1{
     padding-bottom: 20px;
     padding-right: 20px;
     background-color: rgb(85, 130, 130);
+}
+
+.container{
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+p {
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 50;
 }

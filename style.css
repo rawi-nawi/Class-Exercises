@@ -45,3 +45,17 @@ h1 {
 h2 {
     font-size: 50;
 }
+
+.city-wrapper {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.city-img {
+    width: 50%;
+}
+
+.city-text {
+    width: 50%;
+}
